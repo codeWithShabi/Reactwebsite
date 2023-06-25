@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TextChange/static/css/main.c3c2a80d.css",
-    "main.js": "/TextChange/static/js/main.12040d2c.js",
-    "static/js/787.0c3f432a.chunk.js": "/TextChange/static/js/787.0c3f432a.chunk.js",
-    "index.html": "/TextChange/index.html",
-    "main.c3c2a80d.css.map": "/TextChange/static/css/main.c3c2a80d.css.map",
-    "main.12040d2c.js.map": "/TextChange/static/js/main.12040d2c.js.map",
-    "787.0c3f432a.chunk.js.map": "/TextChange/static/js/787.0c3f432a.chunk.js.map"
+    "main.css": "/Reactwebsite/static/css/main.c3c2a80d.css",
+    "main.js": "/Reactwebsite/static/js/main.3d90a1b9.js",
+    "static/js/787.0c3f432a.chunk.js": "/Reactwebsite/static/js/787.0c3f432a.chunk.js",
+    "index.html": "/Reactwebsite/index.html",
+    "main.c3c2a80d.css.map": "/Reactwebsite/static/css/main.c3c2a80d.css.map",
+    "main.3d90a1b9.js.map": "/Reactwebsite/static/js/main.3d90a1b9.js.map",
+    "787.0c3f432a.chunk.js.map": "/Reactwebsite/static/js/787.0c3f432a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c3c2a80d.css",
-    "static/js/main.12040d2c.js"
+    "static/js/main.3d90a1b9.js"
   ]
 }
